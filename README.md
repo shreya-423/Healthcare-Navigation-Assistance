@@ -3,6 +3,8 @@ Design a tool that helps patients navigate the healthcare system, including
 finding providers, understanding insurance coverage, and scheduling
 appointments.
 
+Team Name :- Hack Heisters
+
 Team Members :
 Sanika Akhade
 Shreya Joshi
